@@ -15,9 +15,11 @@ The implementation of the task involves utilizing HTML, CSS and JavaScript to cr
 
 
 ' ' ' HTML
-<!DOCTYPE html> 
+<!DOCTYPE html>  
+
 <html> 
-<head> 
+
+ <head> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head> 
 <body> 
