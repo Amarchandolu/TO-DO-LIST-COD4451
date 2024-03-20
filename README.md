@@ -19,8 +19,8 @@ The implementation of the task involves utilizing HTML, CSS and JavaScript to cr
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head> 
 <body> 
-<div id="myDIV" class="header"> 
- <h2 style="margin:5px">To Do List</h2> 
+<divid="myDIV" class="header"> 
+ <h2style="margin:5px">To Do List</h2> 
  <input type="text" id="myInput" placeholder="Add things"> 
  <span onclick="newElement()" class="addBtn">Add</span> 
 </div> 
