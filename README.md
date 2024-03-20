@@ -1,6 +1,6 @@
 **Title: CodeTech IT Solutions Internship – Task Documentation: TO-DO LIST WEB APPLICATION**
 
-**Introduction: **
+**Introduction:**
 This documentation provides a detailed explanation of the task assigned during the CodeTech IT Solutions Internship program. The task involves a Web program for TO-DO List. This documentation will cover the implementation details, rationale behind the code structure, and insights into the programming techniques utilized. Additionally, it will include about the intern, Chandolu Sai amareshwar, and assigned ID, COD4451. 
 
 **Intern information:**
@@ -11,8 +11,10 @@ Intern ID: COD4451
 The task assigned to Chandolu Sai amareshwar during the CodeTech IT solutions internship program is to write a code using HTML,CSS and JavScript for TO-DO List web application.
 
 **Implementation:**
-The implementation of the task involves utilizing HTML, CSS and JavaScript to create a simple program that gives the output for TO-DO List. The program uses a HTML for providing the structure for the webpage, CSS for designing the webpage, JavaScript for providing the functionality to the webpage. Below is the code implementation. 
-'''HTML
+The implementation of the task involves utilizing HTML, CSS and JavaScript to create a simple program that gives the output for TO-DO List. The program uses a HTML for providing the structure for the webpage, CSS for designing the webpage, JavaScript for providing the functionality to the webpage. Below is the code implementation.
+
+
+' ' ' HTML
 <!DOCTYPE html> 
 <html> 
 <head> 
