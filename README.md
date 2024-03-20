@@ -1,6 +1,6 @@
 **Title: CodeTech IT Solutions Internship – Task Documentation: TO-DO LIST WEB APPLICATION**
 
-**Introduction:** 
+**Introduction:**
 This documentation provides a detailed explanation of the task assigned during the CodeTech IT Solutions Internship program. The task involves a Web program for TO-DO List. This documentation will cover the implementation details, rationale behind the code structure, and insights into the programming techniques utilized. Additionally, it will include about the intern, Chandolu Sai amareshwar, and assigned ID, COD4451. 
 
 **Intern information:**
