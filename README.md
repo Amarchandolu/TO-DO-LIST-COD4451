@@ -33,7 +33,7 @@ The implementation of the task involves utilizing HTML, CSS and JavaScript to cr
 **Code Explanation:**
 HTML code is for creating the structure for the webpage. 
 !DOCTYPE html ==> This represents that the document type is HTML and the version is 5, It is an unpaired tag 
-<html> </html> ==>It is a paired tag; this represents root element of HTML. From here the HTML code will start. 
+html /html ==>It is a paired tag; this represents root element of HTML. From here the HTML code will start. 
 </html> ==> This represents the close of the HTML code 
 <head>==> This represents opening of head tag, It is a paired tag 
 <title> ==>This represents the title of the webpage 
