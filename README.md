@@ -33,20 +33,35 @@ The implementation of the task involves utilizing HTML, CSS and JavaScript to cr
 </ul> 
 
 **Code Explanation:**
+
 HTML code is for creating the structure for the webpage. 
-!DOCTYPE html ==> This represents that the document type is HTML and the version is 5, It is an unpaired tag html /html ==>It is a paired tag; this represents root element of HTML. From here the HTML code will start. 
-/html ==> This represents the close of the HTML code 
-head==> This represents opening of head tag, It is a paired tag 
-title ==>This represents the title of the webpage 
-body ==>It is a opening of the body region. It acts as a container for the content which must be visible on the 
+
+!DOCTYPE html ==> This represents that the document type is HTML and the version is 5, It is an unpaired tag 
+
+<html> /<html> ==>It is a paired tag; this represents root element of HTML. From here the HTML code will start. 
+
+</html> ==> This represents the close of the HTML code 
+
+<head>==> This represents opening of head tag, It is a paired tag 
+
+ <title> ==>This represents the title of the webpage 
+
+  <body> ==>It is a opening of the body region. It acts as a container for the content which must be visible on the 
 webpage, It is a paired tag. 
-/body ==>It represents closing of the body. 
+
+  </body> ==>It represents closing of the body. 
+
 <div id="myDIV" class="header">: This is a <div> element with the id "myDIV" and the class "header". 
 It's used to group the elements together. The class "header" suggests it's likely meant for styling purposes.
-<h2 style="margin:5px">To Do List</h2>: This is a level 2 heading (<h2>) displaying the text "To Do List". 
+
+ <h2 style="margin:5px">To Do List</h2>: This is a level 2 heading (<h2>) displaying the text "To Do List". 
 The inline style margin:5px adds a margin of 5 pixels around the heading.
-<input type="text" id="myInput" placeholder="Add things">: This is an <input> element of type "text" with the id 
-"myInput". It serves as a text field where users can input tasks to add to the to-do list. The placeholder text "Add things" suggests what users should input.
+
+  <input type="text" id="myInput" placeholder="Add things">: This is an <input> element of type "text" with the id 
+
+"myInput". It serves as a text field where users can input tasks to add to the to-do list. The placeholder text 
+
+"Add things" suggests what users should input.
  
   '''CSS
 <style> body { margin: 0; 
